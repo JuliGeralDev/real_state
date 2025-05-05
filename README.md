@@ -6,8 +6,7 @@ Real State Project is a *study project* developed as part of a Udemy course by J
 
 ## 🔗 Live Preview
 
-👉 Coming soon on Netlify...
-
+[👉 View the Demo on Netlify](https://realstate-juligeraldev.netlify.app/)
 ## ✨ Features
 
 - Responsive Design for all screen sizes using media queries and flexible layouts  
